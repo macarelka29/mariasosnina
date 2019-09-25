@@ -1,0 +1,56 @@
+body{
+    font-weight: 900;
+}
+#article1{
+    font-weight: 300;
+}
+h1 {
+    color: orangered;
+    font-weight: bold;
+}
+.art {
+    color:blue;
+}
+.blog {
+    color: rebeccapurple;
+}
+.cont{
+    color: yellowgreen;
+}
+.Notifications {
+    font-size: 14px;
+    color: rgb(37, 15, 131);
+    font-weight: bold;
+}
+.push {
+    color: brown
+}
+.img {
+    width: 200px;
+    height:200px;
+}
+h3 {
+    color: green;
+}
+
+.bug {
+    width: 200px;
+    height:200px;
+}
+.ssl {
+    width: 100px;
+    height:100px;
+}
+.links {
+    color: royalblue;
+    font-weight: bold;
+}
+.links:hover {
+    color: rebeccapurple;
+    }
+.telephone {
+    color: black;
+}
+.google {
+    color: blue;
+}
